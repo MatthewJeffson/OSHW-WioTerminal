@@ -2,6 +2,8 @@
 
 ![wio terminal](https://files.seeedstudio.com/wiki/Wio-Terminal/img/Wio-Terminal-Wiki.jpg)
 
+## Here are the test files
+
 ## Overview
 
 Seeed Studio is committed to the open-source hardware movement, and in that spirit, we have taken this a step further into open manufacturing. We wish to make it possible for anyone to reproduce and manufacture this device. We believe that opening the manufacturing process will unlock immense potential for innovation and creativity.
