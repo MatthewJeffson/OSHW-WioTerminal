@@ -19,6 +19,6 @@ jobs:
         uses: actions/add-to-project@v1.0.2
         with:
           project-url: https://github.com/orgs/Seeed-Studio/projects/17
-          github-token: ${{ secrets.ISSUE_ASSEMBLE }}
+          github-token: ${{ secrets.issues_assembled }}
           labeled: bug
           label-operator: NOT
